@@ -43,11 +43,6 @@ The queries answer each business question and generate the insights presented in
 
 ![Hotel Booking Dashboard](Hotel_Booking_Dashboard.JPG)
 
-## Project Documentation
-
-- [SQL Analysis](Hotel_Booking_Analysis.sql)
-- [Insights and Recommendations](./insights_and_recommendations.md)
-
 ## Key Insights
 
 - Online Travel Agents generated the highest revenue.
