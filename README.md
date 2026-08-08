@@ -39,6 +39,10 @@ All SQL queries used in this project are available in:
 
 The queries answer each business question and generate the insights presented in this project.
 
+## Power BI Dashboard
+
+![Hotel Booking Dashboard](Hotel_Booking_Dashboard.JPG)
+
 ## Key Insights
 
 - Online Travel Agents generated the highest revenue.
