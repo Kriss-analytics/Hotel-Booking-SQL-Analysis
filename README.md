@@ -46,7 +46,7 @@ The queries answer each business question and generate the insights presented in
 ## Project Documentation
 
 - [SQL Analysis](Hotel_Booking_Analysis.sql)
-- [Insights and Recommendations](insights_and_recommendations.md)
+- [Insights and Recommendations](./insights_and_recommendations.md)
 
 ## Key Insights
 
