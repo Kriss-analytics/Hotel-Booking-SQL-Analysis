@@ -43,6 +43,12 @@ The queries answer each business question and generate the insights presented in
 
 ![Hotel Booking Dashboard](Hotel_Booking_Dashboard.JPG)
 
+## Power BI Dashboard
+
+![Hotel Booking Dashboard](Hotel Booking Analysis Dashboard.JPG)
+
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGUwODE0YzItMTQ5My00NGI2LWEyOWMtOGNhMTBmMDAyMzlhIiwidCI6ImI3ZmE1MTQ0LTY0YzUtNDllZS1hMmU1LTBjYmYzNmQ2OTQ3OCIsImMiOjh9)
+
 ## Key Insights
 
 - Online Travel Agents generated the highest revenue.
